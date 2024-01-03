@@ -1,4 +1,4 @@
-[submodule "ModbusTCP2MQTT"]
+[submodule "ModbusTCP2MQTT_pycrypt"]
 	path = ModbusTCP2MQTT
 	url = https://github.com/alpham1ke/ModbusTCP2MQTT_pycrypt
 
